@@ -3,6 +3,10 @@
 
 ## Jazz
 1. Fly me to the Moon
-  - Artist : Frank Sinatra
-  - Youtube : https://www.youtube.com/watch?v=mQR0bXO_yI8
-  - Info : https://ko.wikipedia.org/wiki/Fly_Me_to_the_Moon
+    - Artist : Frank Sinatra
+    - Youtube : https://www.youtube.com/watch?v=mQR0bXO_yI8
+    - Info : https://ko.wikipedia.org/wiki/Fly_Me_to_the_Moon
+2. Caravan
+    - Artist : Juan Tizol and Duke Ellington
+    - Youtube : https://www.youtube.com/watch?v=TS-G4UQTfUo
+    - Info : https://en.wikipedia.org/wiki/Caravan_(1936_song) 
