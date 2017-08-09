@@ -10,3 +10,7 @@
     - Artist : Juan Tizol and Duke Ellington
     - Youtube : https://www.youtube.com/watch?v=TS-G4UQTfUo
     - Info : https://en.wikipedia.org/wiki/Caravan_(1936_song) 
+3. Take Five
+    - Artist : Dave Brubeck
+    - Youtube : https://www.youtube.com/watch?v=vmDDOFXSgAs
+    - Info : https://en.wikipedia.org/wiki/Take_Five
