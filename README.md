@@ -14,3 +14,7 @@
     - Artist : Dave Brubeck
     - Youtube : https://www.youtube.com/watch?v=vmDDOFXSgAs
     - Info : https://en.wikipedia.org/wiki/Take_Five
+4. Sing, Sing, Sing
+    - Artist : Louis Prima
+    - Youtube : https://www.youtube.com/watch?v=6_YG9XBX04Y
+    - Info : https://ko.wikipedia.org/wiki/Sing,_Sing,_Sing_(With_a_Swing)
