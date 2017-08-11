@@ -18,3 +18,7 @@
     - Artist : Louis Prima
     - Youtube : https://www.youtube.com/watch?v=6_YG9XBX04Y
     - Info : https://ko.wikipedia.org/wiki/Sing,_Sing,_Sing_(With_a_Swing)
+5. Merry Christmas Mr. Lawrence
+    - Artist : Ryuichi Sakamoto
+    - Youtube : https://www.youtube.com/watch?v=LGs_vGt0MY8
+    - Info : https://en.wikipedia.org/wiki/Merry_Christmas_Mr._Lawrence_(instrumental)
