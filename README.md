@@ -22,3 +22,7 @@
     - Artist : Ryuichi Sakamoto
     - Youtube : https://www.youtube.com/watch?v=LGs_vGt0MY8
     - Info : https://en.wikipedia.org/wiki/Merry_Christmas_Mr._Lawrence_(instrumental)
+6. Another Day of Sun
+    - Artist : Justin Hurwitz
+    - Youtube : https://www.youtube.com/watch?v=CWnYIb2lqpo
+    - Info : https://en.wikipedia.org/wiki/Another_Day_of_Sun
