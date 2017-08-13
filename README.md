@@ -26,3 +26,7 @@
     - Artist : Justin Hurwitz
     - Youtube : https://www.youtube.com/watch?v=CWnYIb2lqpo
     - Info : https://en.wikipedia.org/wiki/Another_Day_of_Sun
+7. One Summer's Day
+    - Artist : Joe Hisaishi
+    - Youtube : https://www.youtube.com/watch?v=t41DYdwur2U
+    - Info : https://en.wikipedia.org/wiki/Spirited_Away
