@@ -30,3 +30,7 @@
     - Artist : Joe Hisaishi
     - Youtube : https://www.youtube.com/watch?v=t41DYdwur2U
     - Info : https://en.wikipedia.org/wiki/Spirited_Away
+8. Waltz for Debby
+    - Artist : Bill Evans
+    - Youtube : https://www.youtube.com/watch?v=dH3GSrCmzC8
+    - Info : https://en.wikipedia.org/wiki/Waltz_for_Debby_(1962_album)
