@@ -34,3 +34,7 @@
     - Artist : Bill Evans
     - Youtube : https://www.youtube.com/watch?v=dH3GSrCmzC8
     - Info : https://en.wikipedia.org/wiki/Waltz_for_Debby_(1962_album)
+9. Midnight Blue
+    - Artist : Kenny Burrell
+    - Youtube : https://www.youtube.com/watch?v=eNWDwOsQqlw
+    - Info : https://en.wikipedia.org/wiki/Midnight_Blue_(Kenny_Burrell_album)
