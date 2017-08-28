@@ -38,3 +38,7 @@
     - Artist : Kenny Burrell
     - Youtube : https://www.youtube.com/watch?v=eNWDwOsQqlw
     - Info : https://en.wikipedia.org/wiki/Midnight_Blue_(Kenny_Burrell_album)
+10. Rain
+    - Artist : Ryuichi Sakamoto
+    - Youtube : https://www.youtube.com/watch?v=8tKfYwc4zxA
+    - Info : https://en.wikipedia.org/wiki/1996_(Ryuichi_Sakamoto_album)
