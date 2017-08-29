@@ -42,3 +42,7 @@
     - Artist : Ryuichi Sakamoto
     - Youtube : https://www.youtube.com/watch?v=8tKfYwc4zxA
     - Info : https://en.wikipedia.org/wiki/1996_(Ryuichi_Sakamoto_album)
+11. Someone In The Crowd
+    - Aritist : Justin Hurwitz
+    - Youtube : https://www.youtube.com/watch?v=RuASCe18sbo
+    - Info : https://en.wikipedia.org/wiki/La_La_Land_(soundtrack)
